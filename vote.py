@@ -1,7 +1,8 @@
-welcome to voting system
 age = int(input("Enter your age: "))
 
-if age >= 18:
+print("Welcome to Voting System")
+
+if (age >= 18):
   print("You are eligible to vote.")
   print("You can register as a voter.")
 else:
